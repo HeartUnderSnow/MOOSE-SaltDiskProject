@@ -40,11 +40,11 @@ In this repository, the depletion and diffusion of chroumium in half-inch wide d
 - Ions calculated: 9999
 
 Displacement damage calculated via SRIM-2013
-```
+
 Ion flux: $2.5465 \times 10^{13} ions/m^{2}s$
 Displacements: 14 vaccancies/ion 
 dpa rate: $1.3659 \times 10^{-10}$ dpa/s
-```
+
 ![TargetVacancies](SRIM_data/TargetVacancies.png)
 
 ## Summary 
