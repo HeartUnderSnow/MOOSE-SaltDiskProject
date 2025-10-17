@@ -48,7 +48,11 @@ Displacement damage calculated via SRIM-2013:
 ## Summary 
 
 - **Peak defect concentration:** $1.3659 \times 10^{-10}$ dpa/s in irradiated region 
-- Failed to repeat de-accelerated corrosion observed in [Zhou et al. (2019)](https://doi.org/10.1016/j.nimb.2018.11.024)
+- Salt-facing surface depleted from 20% to 15% 
+- Center Cr concentration decreased to 19.6%
+- Peak radiation damage = $9.84 \times 10^{-7}$ dpa in 2.5mm diameter radius
+- Damage dose consistent with SRIM-derived damage rate 
+- Failed to repeat de-accelerated corrosion observed in [Zhou et al. (2019)](https://doi.org/10.1016/j.nimb.2018.11.024), as there is no discernable difference between the irradiated zone and non-irradiated zone in relation to Cr diffusion
 - Further refinement is needed to model the self-healing behavior of the alloy once exposed to proton irradiation 
 
 ## References
