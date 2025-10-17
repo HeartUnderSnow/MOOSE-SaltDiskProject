@@ -17,7 +17,7 @@ In this repository, the depletion and diffusion of chromium in half-inch wide di
 ## Physics 
 1. **Chromium diffusion:** $D = 1 \times 10^{-14}$ m<sup>2</sup>/s at 650°C 
 2. **Radiation damage:** 3 MeV proton beam, 80 nA, 2.4 mm spot 
-3. **Surface corrosion:** Dirichlet BC representing Cr depletion to 17%
+3. **Surface corrosion:** Dirichlet BC representing Cr depletion to 15%
 
 **MOOSE Visualization of Cr Depletion**
 
@@ -49,7 +49,7 @@ Displacement damage calculated via SRIM-2013:
 
 **After two hours:**
 - Peak defect concentration $1.3659 \times 10^{-10}$ dpa/s in irradiated region 
-- Salt-facing surface depleted from 20% to 15% 
+- Salt-facing surface depleted from 20% to 15% < - Very unlikely and depletion physics will need to be changed
 - Center Cr concentration decreased to 19.6%
 - Peak radiation damage = $9.84 \times 10^{-7}$ dpa in 2.5mm diameter radius
 - Damage dose consistent with SRIM-derived damage rate 
